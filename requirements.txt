@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+python-dotenv
+wikipedia
+langgraph
+langgraph-supervisor
+ddgs
+langchain-openai
+openai
